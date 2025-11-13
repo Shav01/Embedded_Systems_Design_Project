@@ -1,4 +1,4 @@
-# Embedded_Systems_Design_Project
+# Embedded Systems Design Project
 
 **Learning Outcomes:** Be able to design embedded systems.
 
